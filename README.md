@@ -1,4 +1,3 @@
 # Alura - Curso de Cypress
 
-´´´Teste de Busca´´´
-
+```Teste de Busca```
