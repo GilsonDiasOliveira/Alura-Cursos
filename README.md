@@ -1,3 +1,3 @@
-# Alura - Curso de Cypress
+# Alura - Curso de Cypress - Automatização dos Testes
 
-```Teste de Busca```
+```Teste de Busca no Site```
